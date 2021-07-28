@@ -1,0 +1,19 @@
+{
+  "name": "taller-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [],
+  "author": "Jorge Macper",
+  "license": "ISC",
+  "devDependencies": {
+    "@snowpack/plugin-postcss": "^1.4.3",
+    "postcss": "^8.3.6",
+    "snowpack": "^3.8.3",
+    "tailwindcss": "^2.2.7"
+  }
+}
